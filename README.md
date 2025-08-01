@@ -15,3 +15,4 @@ Expenses is a simple and useful app that helps you track your expenses.
 <img width="250" alt="Expenses App Preview Screen 7" src="https://github.com/user-attachments/assets/f5a9cf24-65ac-413d-b918-af7a6f61f98e">
 <img width="250" alt="Expenses App Preview Screen 8" src="https://github.com/user-attachments/assets/b0feddb1-a238-43d6-b5c7-eeeecb9cc76b">
 <img width="250" alt="Expenses App Preview Screen 9" src="https://github.com/user-attachments/assets/5c725a37-1cf5-4820-9106-8a1197f4a01c">
+<img width="250" alt="Expenses App Preview Screen 10" src="https://github.com/user-attachments/assets/dffc54f1-2a55-48d7-9f29-9c68e449265f">
